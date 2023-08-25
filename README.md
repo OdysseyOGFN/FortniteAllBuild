@@ -297,8 +297,10 @@ Thanks to Samicc, Fischsalat and VastBlast for the versions.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
 |  [24.0](https://cdn.discordapp.com/attachments/735984479906037845/1087148170670252143/E66047BB4839D613E3BB149ACF01288E.manifest)           (Manifest)  | UE5.1.1        |                                  
 |  [24.01](https://cdn.discordapp.com/attachments/735984479906037845/1087410527250157629/E66047BB4839D613E3BB149ACF01288E.manifest)          (Manifest)  | UE5.1.1        |                                  
-|  [24.10](https://cdn.discordapp.com/attachments/735984479906037845/1100631064768163941/N0zfnTCBNb4rhEbNm0izqdHiVbCoaQ.manifest)            (Manifest)  | UE5.1.1        |                                  
-|  [24.20](https://cdn.discordapp.com/attachments/735984479906037845/1099772580216442921/E66047BB4839D613E3BB149ACF01288E.manifest)          (Manifest)  | UE5.1.1        | 
+|  [24.1](https://cdn.discordapp.com/attachments/735984479906037845/1100631064768163941/N0zfnTCBNb4rhEbNm0izqdHiVbCoaQ.manifest)             (Manifest)  | UE5.1.1        |                                  
+|  [24.2](https://cdn.discordapp.com/attachments/735984479906037845/1099772580216442921/E66047BB4839D613E3BB149ACF01288E.manifest)           (Manifest)  | UE5.1.1        | 
+|  [24.3](https://cdn.discordapp.com/attachments/735984479906037845/1144680878702874624/7rRQaEpSegmh97PgEUuJLFvvxnYHEg.manifest)             (Manifest)  | UE5.1.1        | 
+|  [24.4](https://cdn.discordapp.com/attachments/735984479906037845/1144681282144575528/fVxH4TNQnx8Cfzq2GkKq1VTK1BQeJw.manifest)             (Manifest)  | UE5.1.1        | 
 
 
 
